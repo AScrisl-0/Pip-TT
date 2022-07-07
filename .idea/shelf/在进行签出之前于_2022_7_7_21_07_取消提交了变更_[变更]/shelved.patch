@@ -1,0 +1,30 @@
+Index: 1st.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/1st.py b/1st.py
+--- a/1st.py	(revision d92806f2fc8d0b760b8b91f0c62ec7d9c39aca86)
++++ b/1st.py	(date 1657199230875)
+@@ -1,0 +1,3 @@
++
++print('Hello World !')
++print('Hello Git !')
+\ No newline at end of file
+Index: .idea/vcs.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/vcs.xml b/.idea/vcs.xml
+new file mode 100644
+--- /dev/null	(date 1657198973541)
++++ b/.idea/vcs.xml	(date 1657198973541)
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="VcsDirectoryMappings">
++    <mapping directory="$PROJECT_DIR$" vcs="Git" />
++  </component>
++</project>
+\ No newline at end of file
